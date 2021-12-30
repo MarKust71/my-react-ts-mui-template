@@ -1,1 +1,1 @@
-# my-react-ts-mui-boilerplate
+# my-react-ts-mui-template
